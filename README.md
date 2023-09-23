@@ -1,4 +1,4 @@
-# Portal-for-Internship-Opportunity
+# Portal for Internship Opportunity
 
 <img width="1440" alt="Home Page" src="https://github.com/AshrithaB/Portal-for-Internship-Opportunity/blob/main/Screenshots/Home%20page.jpg?raw=true"> 
 
